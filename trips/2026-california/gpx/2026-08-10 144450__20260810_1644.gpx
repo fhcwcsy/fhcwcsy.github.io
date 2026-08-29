@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="OruxMaps v.10.7.4 GP" version="1.1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<!-- owner: 68f07119f1ec20 -->
+<metadata>
+<name><![CDATA[2026-08-10 14:44:50]]></name>
+<link href="https://www.oruxmaps.com">
+<text>OruxMaps GP</text>
+</link>
+<time>2026-08-10T21:44:50.711Z</time><bounds maxlat="36.5793275" maxlon="-118.2941782" minlat="36.5783490" minlon="-118.2967617"/>
+</metadata>
+<trk>
+<name><![CDATA[2026-08-10 14:44:50]]></name>
+<desc><![CDATA[<p>Type: Undefined<br/>Start time: 16:44 Aug 10, 2026<br/>Finish time: 17:04 Aug 10, 2026<br/>Distance: 0.3 km (00:19)<br/>Moving time: 00:14<br/>Average speed: 0.81 km/h<br/>Speed in Movement: 1.12 km/h<br/>Maximum Speed: 1.87 km/h<br/>Minimum altitude: 4305 m<br/>Maximum altitude: 4360 m<br/>Descent speed: 277.2 m/h<br/>Elevation loss: 53 m<br/>Descent time: 00:11<br/></p><hr align="center" width="480" style="height: 2px; width: 517px"/>]]></desc>
+<type>Undefined</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="TYPE" subtype="0">0</om:ext>
+<om:ext type="DIFFICULTY">0</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+<trkseg>
+<trkpt lat="36.5783490" lon="-118.2967617">
+<ele>4360.81</ele>
+<time>2026-08-10T21:44:56.000Z</time>
+</trkpt>
+<trkpt lat="36.5784196" lon="-118.2965538">
+<ele>4335.44</ele>
+<time>2026-08-10T21:47:28.000Z</time>
+</trkpt>
+<trkpt lat="36.5784464" lon="-118.2963279">
+<ele>4328.47</ele>
+<time>2026-08-10T21:49:18.000Z</time>
+</trkpt>
+<trkpt lat="36.5785457" lon="-118.2961367">
+<ele>4324.53</ele>
+<time>2026-08-10T21:51:00.000Z</time>
+</trkpt>
+<trkpt lat="36.5786301" lon="-118.2959376">
+<ele>4324.44</ele>
+<time>2026-08-10T21:53:08.000Z</time>
+</trkpt>
+<trkpt lat="36.5787860" lon="-118.2958227">
+<ele>4316.14</ele>
+<time>2026-08-10T21:55:25.000Z</time>
+</trkpt>
+<trkpt lat="36.5788915" lon="-118.2956374">
+<ele>4312.38</ele>
+<time>2026-08-10T21:57:25.000Z</time>
+</trkpt>
+<trkpt lat="36.5790013" lon="-118.2954490">
+<ele>4308.84</ele>
+<time>2026-08-10T21:58:05.000Z</time>
+</trkpt>
+<trkpt lat="36.5790484" lon="-118.2952313">
+<ele>4305.44</ele>
+<time>2026-08-10T21:59:10.000Z</time>
+</trkpt>
+<trkpt lat="36.5791513" lon="-118.2950474">
+<ele>4306.44</ele>
+<time>2026-08-10T22:00:24.000Z</time>
+</trkpt>
+<trkpt lat="36.5792433" lon="-118.2948542">
+<ele>4308.44</ele>
+<time>2026-08-10T22:01:45.000Z</time>
+</trkpt>
+<trkpt lat="36.5792351" lon="-118.2946198">
+<ele>4306.53</ele>
+<time>2026-08-10T22:02:52.000Z</time>
+</trkpt>
+<trkpt lat="36.5792546" lon="-118.2943916">
+<ele>4306.44</ele>
+<time>2026-08-10T22:03:34.000Z</time>
+</trkpt>
+<trkpt lat="36.5793275" lon="-118.2941782">
+<ele>4303.44</ele>
+<time>2026-08-10T22:04:38.000Z</time>
+</trkpt>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="NAME" subtype="0"><![CDATA[Segment: 1]]></om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</trkseg>
+</trk>
+</gpx>
